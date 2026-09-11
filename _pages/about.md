@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /about/
 title: "About Me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 I am **Junteng Liu**, a Ph.D. student in Computer Science at the **Hong Kong University of Science and Technology (HKUST)** and a member of the **HKUST NLP Group**, advised by **Professor Junxian He**. I received my B.Eng. from **Shanghai Jiao Tong University (SJTU)** in June 2024, where Professor He also advised my undergraduate research.
@@ -45,7 +42,7 @@ My research focuses on **natural language processing** and **machine learning**,
 - Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.** *NeurIPS 2023*.
 - Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. **Composing Parameter-Efficient Modules with Arithmetic Operations.** *NeurIPS 2023*.
 
-[View the publications page]({{ site.baseurl }}/publications/) or see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+The same list is available on the [publications page]({{ site.baseurl }}/publications/). For the latest citation information, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Honors
 

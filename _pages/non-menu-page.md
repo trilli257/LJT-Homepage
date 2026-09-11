@@ -1,16 +1,11 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /
+title: "Junteng Liu"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+I am a Ph.D. student in Computer Science at the **Hong Kong University of Science and Technology (HKUST)** and a member of the **HKUST NLP Group**, advised by **Professor Junxian He**.
 
-Heading 1
-======
+My research focuses on **natural language processing** and **machine learning**, particularly LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
-Heading 2
-======
+You can learn more on my [About page]({{ site.baseurl }}/about/), browse my [publications]({{ site.baseurl }}/publications/), or view my [curriculum vitae]({{ site.baseurl }}/cv/).
