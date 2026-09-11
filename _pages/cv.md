@@ -7,8 +7,8 @@ author_profile: true
 
 ## Junteng Liu
 
-Ph.D. student, HKUST NLP Group  
-Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk) · [GitHub](https://github.com/Vicent0205) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) · [X/Twitter](https://twitter.com/junteng88716710)
+First-year PhD candidate, HKUST NLP Group  
+Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk) · [GitHub](https://github.com/Vicent0205) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) · X/Twitter: @junteng88716710
 
 ## Research Interests
 
@@ -37,11 +37,11 @@ Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk) · [GitHub](https:/
 ### 2025
 
 - **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** arXiv, 2025.
-- **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. **On the Perception Bottleneck of VLMs for Chart Understanding.** arXiv, 2025.
+- **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. **On the Perception Bottleneck of VLMs for Chart Understanding.** arXiv, 2025. Code repository: Vision4Chart.
 
 ### 2024
 
-- **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. **On the Universal Truthfulness Hyperplane Inside LLMs.** EMNLP 2024.
+- **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. **On the Universal Truthfulness Hyperplane Inside LLMs.** EMNLP 2024. Code repository: Universal_Truthfulness_Hyperplane.
 - Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.** ICML 2024.
 
 ### 2023
@@ -49,10 +49,6 @@ Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk) · [GitHub](https:/
 - Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.** NeurIPS 2023.
 - Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. **Composing Parameter-Efficient Modules with Arithmetic Operations.** NeurIPS 2023.
 
-## Honors
+## Honor
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
-
-## Skills and Expertise
-
-Natural language processing; machine learning; large language models; reinforcement learning; vision-language models; hallucination analysis and mitigation; model truthfulness; interpretability.
