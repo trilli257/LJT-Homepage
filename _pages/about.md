@@ -30,13 +30,22 @@ My research focuses on **natural language processing** and **machine learning**,
 
 ## Publications
 
-{% include base_path %}
+### 2025
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** *arXiv*, 2025.
+- **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. **On the Perception Bottleneck of VLMs for Chart Understanding.** *arXiv*, 2025. [Code](https://github.com/Vicent0205/Vision4Chart)
 
-[View the dedicated publications page]({{ base_path }}/publications/) or see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+### 2024
+
+- **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He. **On the Universal Truthfulness Hyperplane Inside LLMs.** *EMNLP 2024*. [Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+- Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.** *ICML 2024*.
+
+### 2023
+
+- Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.** *NeurIPS 2023*.
+- Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He. **Composing Parameter-Efficient Modules with Arithmetic Operations.** *NeurIPS 2023*.
+
+[View the publications page]({{ site.baseurl }}/publications/) or see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Honors
 
