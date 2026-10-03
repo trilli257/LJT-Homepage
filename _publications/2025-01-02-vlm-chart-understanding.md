@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-01-02-vlm-chart-understanding
 excerpt: 'On the perception bottleneck of VLMs for chart understanding.'
-date: 2025-01-01
+date: 2025-01-02
 venue: 'arXiv'
 slidesurl: 'https://arxiv.org/'
 paperurl: 'https://arxiv.org/'
