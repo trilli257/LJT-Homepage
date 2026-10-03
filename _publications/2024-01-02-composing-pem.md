@@ -2,9 +2,9 @@
 title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
 collection: publications
 category: conferences
-permalink: /publication/2024-01-02-composing-pem
+permalink: /publication/2023-01-02-composing-pem
 excerpt: 'Composing parameter-efficient modules with arithmetic operations for parameter efficiency.'
-date: 2024-01-01
+date: 2023-01-02
 venue: 'NeurIPS 2023'
 slidesurl: 'https://papers.nips.cc/'
 paperurl: 'https://papers.nips.cc/'
